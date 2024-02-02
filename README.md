@@ -4,22 +4,13 @@ My name is Henrique Yuiti and i'm passionated about mathematics, physics and pro
 
 ## 💻 Facts About Me/ What i'm working on
 
-- 🔭 I’m currently working on Django Projects
-- 🌱 I’m currently learning HTML5, CSS3
+- 🔭 Worked on Django Projects
+- 🌱 I’m currently studying physics at University State of Sao Paulo
 - 📫 How to reach me: henrique.komada@protonmail.com
 - ⚡ Fun fact: My first deploy was on the "Day of the Programmer"
-- 🤓 Personality: I'm strange as Paul Dirac
 
-## 📜 I can speak in
+## 📜 Programming languages
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,c)](https://skills.thijs.gg)
 
-## 🚧 My Projects
-My Portifolio </br>
-https://henriqueyuiti.up.railway.app </br>
-</br>
-Gaussian Lair </br>
-https://gaussianlair.onrender.com </br> 
-</br> 
-booksdotpy </br> 
-https://booksdotpy.onrender.com </br>
+
