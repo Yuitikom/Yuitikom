@@ -1,6 +1,7 @@
 # About Me 👋
 
-My name is Henrique Yuiti and i'm passionated about mathematics and physics. Started learning Python, created some Django projects and now studying Physics at University State of Sáo Paulo.
+My name is Henrique Yuiti and i'm passionated about mathematics and physics. Started learning Python, created some Django fullstack projects and now studying Physics at University State of São Paulo. 
+Update: scientific introduction to research in field theory.
 
 ## 💻 Facts About Me/ What i'm working on
 
